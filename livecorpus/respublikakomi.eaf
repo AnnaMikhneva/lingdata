@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-20T22:28:30+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///D:/Аня/2021-2022/линда/дашакаплан/respublikakomi.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./respublikakomi.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:615d6e63-2d81-4a02-bf76-2cce07d96e83</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">80</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="9300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="9640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="12960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="13430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="21720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="21910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="26130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="27130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="28550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="28990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="31010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="31340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="34800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="35460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="38920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="39015"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="42025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="42210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="43110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="43180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="44370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="44460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="47550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="48200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="49780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="49975"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="53625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="53690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="58580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="58880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="59530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="59720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="64140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="64380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="68230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="68700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="71350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="71660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="76000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="76190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="84480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="84550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="89030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="89160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="91500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="91575"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="93175"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="93260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="100780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="101000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="107250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="107460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="109120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="109180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="116740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="117260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="123540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="124450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="133940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="134220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="137630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="137820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="141410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="141630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="147810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="147920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="152670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="152770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="156050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="156170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="157170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="157340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="160050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="160190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="162380"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="AnnaMikhneva" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="dk1997f" TIER_ID="text@dk1977f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>// я прекрасно помню как / как сильно меня это задевало//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>// и как других это моих друзей тоже задевало/ вот//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>//была моя лучшая подруга из другой школы//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>// она училась до девятого класса / в девятом классе она сдавала экзамены</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>// и какая-то училка ее настолько невзлюбила / что она ее завалила / а тогда были еще экзамены по билетам / ну то есть без камер без ничего //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>// она прям приходила / она все учила / она не глупая была / вообще не глупая //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>// и та ее просто заваливала //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>// и ей уже приходилось приходить с мамой // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>// ну типа / и что-то решать / она даже по-моему на маму огрызалась // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>// ну вот типа как /  как так можно / так нельзя // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>// серьезно / некоторые просто начинают гнобить детей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>// нет //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>// начинается спор //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>// она такая хочу пересдать по-моему или та ей предложила пересдать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>// ну и она такая окей хорошо //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>// и вот так она пересдавала / по-моему она пересдавала до четверки //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>// она уже / я не знаю / может быть в первый раз она там как-то и списала / или еще что / но //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>// ааа //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>// все / уже все эти которые она рассказывала это одно и то же домашнее задание // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>// она настолько его идеально рассказала / просто от зубов //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>// четыре / ну ладно / четыре //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>// и я тоже помню была ситуация / ну им же там нужно з...заполнять классный журнал //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>// и-и-и-и / наш классный руководитель что-то короче смотрела наш классный журнал такая / сидит такая и снимает очки и вот так просто садится //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>// мы такие / что такое / а она говорит / просто посмотрите типа как эта женщина ставит оценки // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>// в общем / классный журнал / там же по-моему // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>// ой / солнышко вышло //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>// там же типа все дни недели по-моему / от понедельника / до воскресенья или до субботы / что-то такое / по-моему до воскресенья //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>// и-и-и / эта женщина умудрилась поставить оценки не в клеточку / а //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>// в / полоску //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>// то есть / вот раз клетка / вот два / и она в промежуток поставила между по-моему субботой и воскресеньем / хотя у нас урок был типа в будни //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>// и-и  была у нас еще одно время учительница  по русскому языку / она была короткий промежуток времени / потому что //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>// в основном / литературу и русский язык у нас вела одна учительница / я наверное не буду  / говорить имя / как бы / не хочется / но кто учится в гимназии / наверное поймут о ком я //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>// это просто прекрасная / великолепная женщина //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>// она / по-моему работает в школе / я не знаю как сейчас //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>// очень-очень долго / и я уже говорила / что я была безумно рада / когда / мы уезжали в Петербург //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>// мы стояли с билетами в один конец / и последнего человека из Сосногорска кого я встретила / это ее //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>// она была так искренне рада за меня / ну то есть прям такая //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>// Даша // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>// я так за тебя ра... / вы такие мо... / ну я уже об этом говорила //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>// она прям искренне порадовалась / как будто это моя мама //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="AnnaMIkhneva" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@dk1977f"
+        PARTICIPANT="dk1977f" TIER_ID="transl@dk1997f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> I remember quite good how... how much it hurt me</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> And how it also hurt my other friends, well </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>There was my best friend from another school</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> She had been studying until the ninth grade, in the ninth grade she took exams</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>And some teacher disliked her so much that she flunked her. And at that time there were still exams with sample tickets, well, so, without cameras, without anything.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>She just came. She was learning everything, she wasn't stupid, she wasn't stupid at all.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>And she was just flunking her.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>And she has already had to come wth her mum.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>well like, and to decide on something, to my mind she was even talking back to the mum</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Well, like how... how is it possible?! It must not be!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Seriously, some people just start bullying children</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>No</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>An argument begins</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> I think she was like I want to retake the exam or she suggested her to retake</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>So she was like: "Okay, fine"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>And that's how she retook, in my opinion, she retook up to good mark</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>She already, I don't know, maybe for the first time she somehow cheated or something but </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>mmm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>All these...  all these times that she was answering that one same homework</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>She answered it so perfectly, literally by heart</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Good, well fine, you get a good mark</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>And I also remember there was a situation, so they are supposed to f... fill out a class register</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>And our class teacher so she looking through our class register like, she was sitting like and she took off her glasses and she just sat like this</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>We were like: "What's up?" And she said:"Just look at how this woman is writing your marks."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Well, actually, the class register, to my mind, there is...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Oh, the sun came out!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>There's like all days of the week, I think, from Monday til Sunday or til Saturday, something like that, I think, until Sunday</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>And-and-and this woman managed to put the grades not in the box but</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>on the stripe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>So here is the first box, here is the second one and she put it in the interval between, I think, Saturday and Sunday, although we had a lesson like on weekdays</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>And-and we had a teacher of Russian for some period of time, she was for a short period of time because...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Mostly, our literature and the russian language were taught by some teacher, I probably won't say the name as because I don't want to... but those, who study at the gymnasium, will probably understand who I'm talking about</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>She is just a beautiful, gorgeous woman.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>She... I think, she works at school, I don't know, how she is now</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>For so-so long... And I have already told that I was insanely happy... When we were leaving for St.Petersburg</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>We were standing with one-way tickets and she was the last person from Sosnogorsk that I met before leaving. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>She was so sincerely happy for me, well, that means, just like this:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>"Dasha!"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>"I am so glad, well done!" Well, I have already talked about that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>She was just genuinely happy as if she is my mother.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_a08e743e-1c11-41bc-a5e4-a01940b987c8">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8e4a4715-df22-4fcd-b207-24e63578efd8">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_987f02d4-6719-45ab-8d35-5a2b98b9dfaa">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dba9e140-6da6-4ee5-8c33-28c907ccbd0d">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_778aac7d-b68e-404d-aaa1-0604c54c99a8">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fe73d4d3-b083-48d6-a137-e32435ba4b67">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5982d65d-1bf9-4a16-bb97-9d0b3e77f7c8">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b7d48e49-d5d5-4b0e-b56b-09ad400a1a7d">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e482e101-5e0c-4974-a6bf-96ca268fb3cf">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fa050a94-0266-4872-9ae5-2592f26def65">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fc6f0714-0c66-472a-b19c-b9ad88d58d9f">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7b15cbcc-b5d6-46ea-9322-d970e7d7a144">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3d0a33e4-a5e3-4439-88b3-287bf1214864">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_e64742bf-1813-451a-8536-5c9e1a42e1a5">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_647d7efa-1e72-4704-af11-2af6d8b99f6f">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_02a15871-4a1b-4505-a51e-937153ea1e16">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_92364df1-b8b1-4e76-a5b6-f09d4cd0d576">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
